@@ -1,0 +1,1 @@
+This is my GitHub repository for the Canadian Computing Competition 2020 solutions. These are all my version of the solution and not in anyway the best answer.
